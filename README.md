@@ -1,6 +1,7 @@
+![Web Developer](https://scontent.fdac7-1.fna.fbcdn.net/v/t31.18172-8/21686956_1962757744004696_4775336314117417139_o.jpg?_nc_cat=108&ccb=1-7&_nc_sid=174925&_nc_ohc=O_7F3YhXdPUAX-KU4ri&_nc_ht=scontent.fdac7-1.fna&oh=00_AfDtJW2mI5KA4FWw3gnEbyubdUHRkmD76ILS8DMArMfIdA&oe=63A07798)
+
 ### Hi there 👋, I'm Zahid Hasan
 #### Web Developer
-![Web Developer](https://scontent.fdac7-1.fna.fbcdn.net/v/t31.18172-8/21686956_1962757744004696_4775336314117417139_o.jpg?_nc_cat=108&ccb=1-7&_nc_sid=174925&_nc_ohc=O_7F3YhXdPUAX-KU4ri&_nc_ht=scontent.fdac7-1.fna&oh=00_AfDtJW2mI5KA4FWw3gnEbyubdUHRkmD76ILS8DMArMfIdA&oe=63A07798)
 
 I’m a Full Stack Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with React but some technologies I enjoy working with include JavaScript.
 
