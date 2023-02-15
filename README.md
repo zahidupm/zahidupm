@@ -32,12 +32,9 @@ Skills:  REACT / JS / HTML / CSS/ Node / Express
 - 💬 Ask me about Web Development 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zahidupm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zahidhasanbd121/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/zahidhasanbd121)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/zahidhasanbd121)  
+### Numbers
+![hasinhayder's Stats](https://github-readme-stats.vercel.app/api?username=zahidupm&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahidupm)](https://github.com/anuraghazra/github-readme-stats)
+![hasinhayder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zahidupm&theme=darcula&hide_border=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zahidupm&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=zahidupm)  
-
-![Profile views](https://gpvc.arturio.dev/zahidupm)  
+![hasinhayder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zahidupm&theme=darcula&show_icons=true&hide_border=true&layout=compact)  
