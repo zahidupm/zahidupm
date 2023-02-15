@@ -39,9 +39,8 @@ Skills:  REACT / JS / HTML / CSS/ Node / Express
 
 ![zahimupm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zahidupm&theme=darcula&show_icons=true&hide_border=true&layout=compact)  
 
-
 ### Where to find me
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahidhasanbd121/) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahidhasanbd121/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/zahidhasanbd121)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/zahidhasanbd121)
