@@ -33,8 +33,8 @@ Skills:  REACT / JS / HTML / CSS/ Node / Express
 
 
 ### Numbers
-![hasinhayder's Stats](https://github-readme-stats.vercel.app/api?username=zahidupm&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+![zahidupm's Stats](https://github-readme-stats.vercel.app/api?username=zahidupm&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
-![hasinhayder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zahidupm&theme=darcula&hide_border=true)
+![zahidupm's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zahidupm&theme=darcula&hide_border=true)
 
-![hasinhayder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zahidupm&theme=darcula&show_icons=true&hide_border=true&layout=compact)  
+![zahimupm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zahidupm&theme=darcula&show_icons=true&hide_border=true&layout=compact)  
